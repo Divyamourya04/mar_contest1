@@ -1,0 +1,43 @@
+body{
+    margin: 0%;
+    background-color: black;
+}
+h1{
+    color: white;
+    text-align: left;
+}
+label{
+    color:white;
+}
+.Counter{
+    text-align: left;
+    padding: 50px;
+}
+button{
+ 
+   
+    width:150px;
+    height: 40px;
+    font-size: large;
+    margin-top: 50px ;
+    justify-content:space-between;
+  
+}
+#message{
+    color: red;
+}
+#clear-btn{
+background-color: black;
+color: white;
+border: 1px solid white;
+}
+.hide{
+    display: none;
+}
+#hr{
+    width: 170px;
+    height: 1px;
+   background-color:rgba(255, 255, 255, 0.393);
+    border: 1px solid rgba(255, 255, 255, 0.393);
+    margin-top: 5px;
+    }
